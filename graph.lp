@@ -1,4 +1,4 @@
-min: 12 x_AB + 8 x_AC + 13 x_AD + 12 x_AE + 12 x_BA + 13 x_BC + 4 x_BD + 8 x_BE + 8 x_CA + 13 x_CB + 11 x_CD + 20 x_CE + 13 x_DA + 4 x_DB + 11 x_DC + 12 x_DE + 12 x_EA + 8 x_EB + 20 x_EC + 12 x_ED;
+min: 5 x_AB + 4 x_AC + 7 x_AD + 6 x_AE + 5 x_BA + 2 x_BC + 2 x_BD + 4 x_BE + 4 x_CA + 2 x_CB + 10 x_CD + 8 x_CE + 7 x_DA + 2 x_DB + 10 x_DC + 6 x_DE + 6 x_EA + 4 x_EB + 8 x_EC + 6 x_ED;
 c_A: x_AB + x_AC + x_AD + x_AE >= 1;
 c_B: x_BA + x_BC + x_BD + x_BE >= 1;
 c_C: x_CA + x_CB + x_CD + x_CE >= 1;
